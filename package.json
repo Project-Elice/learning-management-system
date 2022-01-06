@@ -130,7 +130,7 @@
     "normalize-scroll-left": "^0.2",
     "page": "^1.11",
     "parse-decimal-number": "1.0.0",
-    "parse-link-header": "^1",
+    "parse-link-header": "^2",
     "prop-types": "^15",
     "qs": "^6.6.0",
     "react": "^16.9.0",
